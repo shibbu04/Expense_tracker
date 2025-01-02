@@ -5,10 +5,10 @@ import {
   Home,
   IndianRupee,
   LogOut,
-  Menu,
+  // Menu,
   X,
 } from "lucide-react";
-import { useState } from "react";
+// import { useState } from "react";
 
 interface SidebarProps {
   isOpen: boolean;
